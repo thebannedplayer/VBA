@@ -20,6 +20,7 @@ Public Class cusSearch
         txtBirthday.Value = DateTime.Now.AddYears(543)
         Try
             Me.CustomerTableAdapter.Fill(Me.ClinicNisaDataSet.customer)
+
             CustomerDataGridView.Sort(CustomerDataGridView.Columns(0), ListSortDirection.Descending)
             txtBirthday.Format = DateTimePickerFormat.Custom
 
@@ -109,7 +110,6 @@ Public Class cusSearch
                             .Parameters.AddWithValue("@colno", txtno.Text)
                             .Parameters.AddWithValue("@colId", txtIDCard.Text)
                             .Parameters.AddWithValue("@colname_thai", txtNameThai.Text)
-
                             .Parameters.AddWithValue("@coltel", txtTel.Text)
                             .Parameters.AddWithValue("@colline", txtLinechecked.Text)
                             .Parameters.AddWithValue("@colbirth", txtBirthday.Value)
@@ -124,9 +124,10 @@ Public Class cusSearch
                             .Parameters.AddWithValue("@coladdressRoad", txtRoad.Text)
                             .Parameters.AddWithValue("@coladdressTambol", txtTambol.Text)
                             .Parameters.AddWithValue("@coladdressDistrict", txtDistrict.Text)
-                            .Parameters.AddWithValue("@coladdressProvince", txtProvince.Text)
+                        .Parameters.AddWithValue("@coladdressProvince", txtProvince.Text)
 
-                        End With
+
+                    End With
 
                         Try
                             conn.Open()

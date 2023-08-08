@@ -26,3 +26,31 @@ D:\VS community\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.xml
 D:\VS community\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.Charting.xml
 D:\VS community\SmartCardReader\SmartCardReader\bin\x64\Debug\de\PdfSharp.resources.dll
 D:\VS community\SmartCardReader\SmartCardReader\bin\x64\Debug\de\PdfSharp.Charting.resources.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\SmartCardReader.exe.config
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\SmartCardReader.exe
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\SmartCardReader.pdb
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\SmartCardReader.xml
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\BouncyCastle.Crypto.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\pcsc-sharp.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.Charting.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\ThaiNationalIDCard.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\pcsc-sharp.xml
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\pcsc-sharp.dll.config
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.xml
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\PdfSharp.Charting.xml
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\de\PdfSharp.resources.dll
+Z:\VBA\SmartCardReader\SmartCardReader\bin\x64\Debug\de\PdfSharp.Charting.resources.dll
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.vbproj.AssemblyReference.cache
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.vbproj.SuggestedBindingRedirects.cache
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.cusSearch.resources
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.frmSmartCard.resources
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.index.resources
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.Resources.resources
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.testground.resources
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.vbproj.GenerateResource.cache
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.vbproj.CoreCompileInputs.cache
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.vbproj.CopyComplete
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.exe
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.xml
+Z:\VBA\SmartCardReader\SmartCardReader\obj\x64\Debug\SmartCardReader.pdb
